@@ -1,8 +1,8 @@
-\# Linked List End Insertion
+Linked List End Insertion
 
 
 
-\## Problem
+Problem
 
 
 
@@ -10,7 +10,7 @@ Given the head of a Singly Linked List and a value x, insert x at the end of the
 
 
 
-\## Approach
+Approach
 
 
 
@@ -34,7 +34,7 @@ Return the original head.
 
 
 
-\## Example
+Example
 
 
 
@@ -52,7 +52,7 @@ Output:
 
 
 
-\## Complexity
+Complexity
 
 
 
@@ -64,7 +64,7 @@ Space Complexity: O(1)
 
 
 
-\## Platform
+Platform
 
 
 
@@ -72,7 +72,7 @@ GeeksforGeeks
 
 
 
-\## Difficulty
+Difficulty
 
 
 
